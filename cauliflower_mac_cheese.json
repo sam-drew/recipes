@@ -1,0 +1,40 @@
+{
+    "title": "Cauliflower Mac 'N' Cheese",
+    "servings": 8,
+    "prepTime": "10 - 15 Mins",
+    "cookingTime": "30 Mins",
+    "totalTime": "About 45 Mins",
+    "ingredients": [
+        "1 Large Cauliflower, cut into florets",
+        "55 Grams Unsalted Butter",
+        "27 Grams all-purpose Flour",
+        "475 Mililiters Milk",
+        "1 Small Onion or Shallot",
+        "180 Grams shredded Cheddar Cheese",
+        "60 Grams shredded Mozzarella Cheese",
+        "20 Grams Nutritional Yeast",
+        "2 Egg Yolks, whisked",
+        "75 Grams Breadcrumbs (leave out if GF)",
+        "Salt & Pepper"
+    ],
+    "method": [
+        "Preheat oven to 175 C",
+        "Grease a medium baking/small casserole dish",
+        "Boil a pan of salted water, add Cauliflower and cook for about 5 mins",
+        "Whilst the Caluiflower is cooking, in another pan, melt the butter on a medium high heat",
+        "Once melted, whisk in the flour until a thick paste forms",
+        "Gradually add in the milk, until mixture is thick (add a little more flour if it gets too runny)",
+        "Remove from heat and immediately whisk in cheese, yeast, and egg yolks",
+        "Add Cauliflower and fold until evenly coated",
+        "Salt & Pepper",
+        "If not GF, sprinkle breadcrumbs on top",
+        "Bake until cheese is bubbling - 30 mins ish",
+        "Enjoy!"
+    ],
+    "nutritionalInfo": {
+        "calories": 361,
+        "fat": 14.2,
+        "carbs": 23.25,
+        "protein": 25.2
+    }
+}

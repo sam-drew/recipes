@@ -1,0 +1,11 @@
+{
+    "recipes": [
+        {
+            "title": "Cauliflower Mac 'n' Cheese",
+            "type": "main",
+            "time": 45,
+            "dietary": ["V", "GF"],
+            "url": "https://raw.githubusercontent.com/sam-drew/recipes/master/cauliflower_mac_cheese.json"
+        }
+    ]
+}
