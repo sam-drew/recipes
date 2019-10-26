@@ -5,7 +5,8 @@
             "type": "main",
             "time": 45,
             "dietary": ["V", "GF"],
-            "url": "https://raw.githubusercontent.com/sam-drew/recipes/master/cauliflower_mac_cheese.json"
+            "url": "https://raw.githubusercontent.com/sam-drew/recipes/master/cauliflower_mac_cheese.json",
+            "image": "http://www.gimmesomeoven.com/wp-content/uploads/2017/06/How-To-Cut-A-Head-Of-Cauliflower-1.jpg"
         }
     ]
 }
